@@ -9,6 +9,9 @@ permalink: /about/
 {:toc}
 
 ## About me
+
 Original Name: HantaoSun
+
 Stage Name: Loading
+
 Career: Coder && Designer(future)
