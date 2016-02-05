@@ -1,3 +1,6 @@
+_site
+.sass-cache
+
 *.class
 
 # Mobile Tools for Java (J2ME)
