@@ -14,4 +14,6 @@ Original Name: HantaoSun
 
 Stage Name: Loading
 
-Career: Coder && Designer(future)
+Career: Coder && Designer
+
+Industry: Mobile Game
