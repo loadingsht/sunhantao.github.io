@@ -33,4 +33,4 @@ disqus_url: "http://sunhantao.github.io"
 # highlighter: false
 markdown: redcarpet2
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+  extensions: ["fenced_code_blocks"]
