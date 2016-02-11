@@ -31,6 +31,4 @@ disqus_url: "http://sunhantao.github.io"
 # highlighter: pygments
 #highlighter: rouge
 # highlighter: false
-markdown: redcarpet2
-redcarpet:
-  extensions: ["fenced_code_blocks"]
+markdown: redcarpet
