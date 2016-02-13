@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: cocos, lua
+categories: cocos lua
 ---
 ## Mac下编码调试Cocos2dx-lua的工具
 
