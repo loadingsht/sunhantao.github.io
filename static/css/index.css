@@ -468,3 +468,12 @@ blockquote:last-child {
 		padding-left: 25px;
 	}
 }
+
+/**
+ * 边框
+ */
+.normal-center {
+	text-align: center;
+	border: 1px solid black;
+	background-color: white;
+}
