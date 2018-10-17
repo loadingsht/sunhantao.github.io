@@ -484,3 +484,10 @@ blockquote:last-child {
     margin-top: 10px;
     background: #f5f5f5;
 }
+
+/**
+ * p
+ */
+p {
+	margin: 0 0 12px;
+}
